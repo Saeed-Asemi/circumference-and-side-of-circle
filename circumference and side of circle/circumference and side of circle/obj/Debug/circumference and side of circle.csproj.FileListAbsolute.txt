@@ -1,0 +1,7 @@
+D:\Uni\Programming\C#\circumference and side of circle\circumference and side of circle\bin\Debug\circumference and side of circle.exe.config
+D:\Uni\Programming\C#\circumference and side of circle\circumference and side of circle\bin\Debug\circumference and side of circle.exe
+D:\Uni\Programming\C#\circumference and side of circle\circumference and side of circle\bin\Debug\circumference and side of circle.pdb
+D:\Uni\Programming\C#\circumference and side of circle\circumference and side of circle\obj\Debug\circumference and side of circle.csprojAssemblyReference.cache
+D:\Uni\Programming\C#\circumference and side of circle\circumference and side of circle\obj\Debug\circumference and side of circle.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\C#\circumference and side of circle\circumference and side of circle\obj\Debug\circumference and side of circle.exe
+D:\Uni\Programming\C#\circumference and side of circle\circumference and side of circle\obj\Debug\circumference and side of circle.pdb
